@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>American Notes for General Circulation</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Dickens, Charles">Charles Dickens</dc:creator>
+    <dc:identifier opf:scheme="uuid" id="uuid_id">4f603199-d3c9-4daa-97d3-1d9aef7254df</dc:identifier>
+    <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.3.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">b7b4240e-dc64-4cd0-be63-de3db513e2e3</dc:identifier>
+    <meta content="{&quot;Charles Dickens&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="calibre:title_sort" content="American Notes for General Circulation"/>
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="001-cover-page.xhtml" id="id" media-type="application/xhtml+xml"/>
+    <item href="005-chapter-vi.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="styles.css" id="id2" media-type="text/css"/>
+    <item href="003-dedication.xhtml" id="id3" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="id"/>
+    <itemref idref="id3"/>
+    <itemref idref="id1"/>
+  </spine>
+  <guide/>
+</package>
